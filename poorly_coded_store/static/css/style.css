@@ -1,0 +1,17 @@
+.container {
+    margin-top: 30px;
+}
+
+h1 {
+    text-align: center;
+    padding: 10px;
+}
+
+thead {
+    text-align: center;
+}
+
+input[type="submit"], select{
+    display: block;
+    margin: 0px auto;
+}
